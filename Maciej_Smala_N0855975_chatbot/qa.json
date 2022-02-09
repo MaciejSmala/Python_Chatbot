@@ -1,0 +1,48 @@
+{"qa": [
+        {"tag": "meat",
+        "patterns": ["Are Axolotls carnivores?", "Do axolotls eat meat?", "What do they eat"],
+        "responses": ["Axolotls are carnivores, meaning they only eat meat"],
+        "context_set": ""
+        },
+        {"tag": "length",
+        "patterns": ["How long are they?", "What is the length of an Axolotl", "To what length do they grow?"],
+        "responses": ["Axolotls grow to about 25 cm which is about 10 inches"],
+        "context_set": ""
+        },
+        {"tag": "endangered",
+        "patterns": ["Are axolotls an endangered species?", "Are they endangered?", "Are axolotls dying out?","Are axolotls in danger?"],
+        "responses": ["Axolotls are a critically endangered species. Ecologists estimate that fewer than 1000 exist in the wild."],
+        "context_set": ""
+        },
+        {"tag": "location",
+        "patterns": ["Where do Axolotls live", "In which part of the world do they live", "Where can I see wild axolotl?"],
+        "responses": ["The only place in the world that has wild Axolotls is Lake Xohimilco within Mexico City."],
+        "context_set": ""
+        },
+        {"tag": "fin",
+        "patterns": ["Do Axolotls have a fin", "Do they have a fin?", "Is there a fin on an Axolotls body"],
+        "responses": ["Axolotls have a fin that extends from the back of the head to the tip of the tail."],
+        "context_set": ""
+        },
+        {"tag": "knowing",
+        "patterns": ["I know that is", "I know this is", "What I do know is that"],
+        "responses": [""],
+        "context_set": ""
+        },        
+        {"tag": "checking",
+         "patterns": ["Check that", "Check that is", "Check if is"],
+         "responses": [""],
+         "context_set": ""
+        },
+        {"tag": "api",
+         "patterns": ["Fact","Give me a fact about Axolotls", "A fact about axolotls please", "I would like to know something about axolotl"],
+         "responses": [""],
+         "context_set": ""
+        },
+        {"tag": "bye",
+        "patterns": ["bye","Later", "goodbye", "exit"],
+        "responses": [""],
+        "context_set": ""
+        }
+   ]
+}
